@@ -3,7 +3,7 @@ title: "winpk"
 output: github_document
 ---
 
-# winpick
+# winpk
 
 **winpk** is an R package that provides simple Windows-native file and path selection utilities.
 
