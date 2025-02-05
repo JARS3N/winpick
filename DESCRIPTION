@@ -1,0 +1,9 @@
+Package: winpick
+Title: Windows File and Path Selection Utilities
+Version: 0.1.0
+Authors@R: person("JARS3N", email = "JARS3N@GMAIL.COM", role = c("aut", "cre"))
+Description: A lightweight package for selecting files, directories, and listing drives/executables in Windows.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
