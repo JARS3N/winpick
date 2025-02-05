@@ -1,4 +1,4 @@
-Package: winpick
+Package: winpk
 Title: Windows File and Path Selection Utilities
 Version: 0.1.0
 Authors@R: person("JARS3N", email = "JARS3N@GMAIL.COM", role = c("aut", "cre"))
