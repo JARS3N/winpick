@@ -1,11 +1,11 @@
 ---
-title: "winpick"
+title: "winpk"
 output: github_document
 ---
 
 # winpick
 
-**winpick** is an R package that provides simple Windows-native file and path selection utilities.
+**winpk** is an R package that provides simple Windows-native file and path selection utilities.
 
 ## Installation
 
